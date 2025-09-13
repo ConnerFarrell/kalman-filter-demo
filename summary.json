@@ -1,0 +1,30 @@
+{
+  "args": {
+    "model": "kf",
+    "steps": 400,
+    "dt": 0.1,
+    "seed": 0,
+    "save_dir": "outputs",
+    "gps": true,
+    "imu": false,
+    "radar": false,
+    "turn_rate": 0.0,
+    "proc_q": 0.2,
+    "gps_std": 2.0,
+    "imu_std": 0.5,
+    "imu_bias_std": 0.02,
+    "radar_range_std": 3.0,
+    "radar_bearing_std_deg": 2.0,
+    "compare_lib": false,
+    "no_plot": false
+  },
+  "metrics": {
+    "rmse_px": 0.5546519618097636,
+    "rmse_py": 0.6404485146382309,
+    "rmse_vx": 0.47153114190341255,
+    "rmse_vy": 0.4360348237907986,
+    "rmse_pos": 0.8472385134315694,
+    "rmse_vel": 0.6422367050729887
+  },
+  "compare": null
+}
