@@ -24,13 +24,13 @@ RMSE pos (m): 0.847
 RMSE vel (m/s): 0.642
 ```
 
-![Trajectory](outputs/trajectory.png)
+![Trajectory](images/trajectory.png)
 
-![Position vs Time](outputs/position_time_series.png)
+![Position vs Time](images/position_time_series.png)
 
-![Velocity vs Time](outputs/velocity_time_series.png)
+![Velocity vs Time](images/velocity_time_series.png)
 
-![Errors (Rolling)](outputs/errors_rmse.png)
+![Errors (Rolling)](images/errors_rmse.png)
 
 ## Skills Demonstrated
 
